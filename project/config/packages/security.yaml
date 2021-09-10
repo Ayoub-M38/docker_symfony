@@ -30,7 +30,7 @@ security:
                 check_route: login_check
                 signature_properties: ["id"]
                 max_uses: 1
-                #lifeime: 60
+                #lifetime: 
 
             # activate different ways to authenticate
             # https://symfony.com/doc/current/security.html#firewalls-authentication
